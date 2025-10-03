@@ -1,14 +1,13 @@
 # Hi there 👋
 
-I'm a **Senior Full Stack Software Engineer** crafting impactful solutions for web and mobile platforms.
+I'm a **Tech Leader & Full Stack Engineer** building impactful solutions across web and mobile platforms. I combine **technical expertise, product vision, and leadership**, while also **entrepreneuring in digital marketing, software, and investments**. 
 
-📍 Based in Brazil 🇧🇷  
-🌎 I speak Portuguese and English.  
-💼 Currently contributing to [Ailu](https://ailu.com.br/home), building a thriving immigration community.  
-💻 Previously worked at [Veggi](https://github.com/veggi-io), [Hinova](https://hinova.com.br/), and [Codificar](https://codificar.com.br/).  
-🎵 I'm a multi-instrumentalist musician! I play guitar, bass, harmonica, drums, cavaquinho, ukulele, bandolin, and I'm learning piano.  
-🏐 I love cooking, reading, playing volleyball, and trying any other sport.  
-🎮 I'm also a gamer, passionate about retro games.
+- 📍 Based in Brazil 🇧🇷
+- 🌎 I speak Portuguese and English.
+- 💼 Currently contributing to [Ailu](https://ailu.com.br/home), building a thriving immigration community.
+- 🎵 I'm a multi-instrumentalist musician! Guitar, bass, harmonica, drums, cavaquinho, ukulele, bandolin, and learning piano.
+- 🏐 I love cooking, reading, playing volleyball, and trying new sports.
+- 🎮 Passionate about retro gaming.
 
 ## Connect with me
 
@@ -20,7 +19,7 @@ I'm a **Senior Full Stack Software Engineer** crafting impactful solutions for w
 
 ## What I Do
 
-I transform complex ideas into user-friendly software, focusing on **scalability**, **security**, and **performance**, using this stack:
+I transform complex ideas into user-friendly solutions, focusing on **scalability**, **security**, and **performance**, using this stack:
 
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-%2361DAFB.svg?style=flat&logo=react&logoColor=black)
@@ -47,13 +46,11 @@ I transform complex ideas into user-friendly software, focusing on **scalability
 ![Jest](https://img.shields.io/badge/Jest-%23C21325.svg?style=flat&logo=jest&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-%2317202C.svg?style=flat&logo=cypress&logoColor=white)
 
-<!--
-Incoming...
+### Research & Emerging Tech
 
-## ☕ Buy Me a Coffee
+Alongside production-ready systems, I'm researching **Blockchain, OpenAI, and AI-driven technologies**, exploring how they can shape the next generation of digital products.
 
-![Brave](https://img.shields.io/badge/-Brave-black?style=for-the-badge&logo=Brave)
-![DuckDuckGo](https://img.shields.io/badge/-Duck%20Duck%20Go-black?style=for-the-badge&logo=duckduckgo)
-![Bitcoin](https://img.shields.io/badge/-Bitcoin-black?style=for-the-badge&logo=bitcoin)
-![Ethereum](https://img.shields.io/badge/-Ethereum-black?style=for-the-badge&logo=Ethereum)
--->
+![Blockchain](https://img.shields.io/badge/Blockchain-12100E?style=flat&logo=bitcoin&logoColor=white)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-%23000000.svg?style=flat&logo=ai&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=flat&logo=keras&logoColor=white)
+![LLMs](https://img.shields.io/badge/Large_Language_Models-FF6F00?style=flat&logo=google-cloud&logoColor=white)
