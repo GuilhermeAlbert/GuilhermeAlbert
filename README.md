@@ -134,38 +134,38 @@
 <table>
   <tr>
     <td width="50%">
-      <a href="https://guilhermealbert.com.br/blog/ai-agents-future-software">
-        <img src="https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&h=240&auto=format&fit=crop" width="100%" height="240" style="object-fit: cover;" alt="AI Agents"/>
+      <a href="https://guilhermealbert.com.br/blog/michael-phelps-discipline">
+        <img src="https://blog.myswimpro.com/wp-content/uploads/2020/09/phelps-medals.jpg" width="100%" height="240" style="object-fit: cover;" alt="Michael Phelps Discipline"/>
       </a>
       <br><br>
-      <h3>AI Agents and the Future of Software</h3>
-      <p>From Imperative to Declarative Systems: How AI agents are fundamentally changing software architecture.</p>
+      <h3>The Michael Phelps Discipline Blueprint</h3>
+      <p>How the Greatest Olympian's Habits Can Transform Your Life: Relentless consistency and systems for extraordinary results.</p>
     </td>
     <td width="50%">
       <a href="https://guilhermealbert.com.br/blog/five-books-systems-thinking">
-        <img src="https://images.unsplash.com/photo-1507413245164-6160d8298b31?q=80&w=800&h=240&auto=format&fit=crop" width="100%" height="240" style="object-fit: cover;" alt="Systems Thinking"/>
+        <img src="https://miro.medium.com/v2/1*EgK51sAKD6OIm48Dcw59lA.jpeg" width="100%" height="240" style="object-fit: cover;" alt="Systems Thinking"/>
       </a>
       <br><br>
-      <h3>Five Books, One Philosophy</h3>
-      <p>Systems Thinking from Ancient Babylon to Modern Code: A synthesis of timeless wisdom.</p>
+      <h3>Five Books to Master Systems Thinking</h3>
+      <p>A Curated Reading List: Seeing the world as a web of interconnected loops rather than linear cause-and-effect.</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <a href="https://guilhermealbert.com.br/blog/laravel-dev-ecosystem">
-        <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=800&h=240&auto=format&fit=crop" width="100%" height="240" style="object-fit: cover;" alt="Laravel"/>
+        <img src="https://images.ctfassets.net/23aumh6u8s0i/7gu8qd0qzmuxWWjYLhZpqo/2bb8a206fe4a86af9414545b5c25c368/laravel" width="100%" height="240" style="object-fit: cover;" alt="Laravel"/>
       </a>
       <br><br>
       <h3>Laravel and the PHP Renaissance</h3>
-      <p>Why Ecosystem Beats Framework: An in-depth analysis of Laravel's vertically integrated platform.</p>
+      <p>Why Ecosystem Beats Framework: An analysis of how Laravel built the most cohesive developer ecosystem in modern tech.</p>
     </td>
     <td width="50%">
       <a href="https://guilhermealbert.com.br/blog/react-native-new-architecture">
-        <img src="https://images.unsplash.com/photo-1526498460520-4c246339dccb?q=80&w=800&h=240&auto=format&fit=crop" width="100%" height="240" style="object-fit: cover;" alt="React Native"/>
+        <img src="https://cdn.prod.website-files.com/5db1c0d5ca3871e8fd1a7b66/67d1869e2b108ad50ff97e1b_lautaro-andreani-xkBaqlcqeb4-unsplash.jpg" width="100%" height="240" style="object-fit: cover;" alt="React Native"/>
       </a>
       <br><br>
-      <h3>React Native in 2026</h3>
-      <p>The New Architecture and What It Means for Mobile Development: Fabric, JSI, and TurboModules.</p>
+      <h3>React Native: The New Architecture</h3>
+      <p>The Future of Mobile Performance: A deep dive into TurboModules, Fabric, and the JSI layer.</p>
     </td>
   </tr>
 </table>
