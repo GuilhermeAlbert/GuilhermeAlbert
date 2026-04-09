@@ -22,6 +22,9 @@
   <a href="https://github.com/GuilhermeAlbert">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  <a href="https://github.com/sponsors/GuilhermeAlbert">
+    <img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="GitHub Sponsors"/>
+  </a>
 </p>
 
 <br><br>
@@ -169,6 +172,12 @@
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <a href="https://github.com/sponsors/GuilhermeAlbert">
+    ❤️ Enjoyed these insights? Support more deep dives on GitHub Sponsors.
+  </a>
+</p>
 
 <br>
 
