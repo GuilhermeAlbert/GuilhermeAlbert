@@ -161,7 +161,7 @@
 <table>
   <tr>
     <td width="50%">
-      <a href="https://guilhermealbert.com/blog/llm-workflow-system-ailu">
+      <a href="https://guilhermealbert.com/blog/working-with-llms-taught-me-to-run-a-kitchen/">
         <img src="https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=1600&auto=format&fit=crop" width="100%" height="240" style="object-fit: cover;" alt="LLM Workflow System"/>
       </a>
       <br><br>
