@@ -162,7 +162,7 @@
   <tr>
     <td width="50%">
       <a href="https://guilhermealbert.com/blog/working-with-llms-taught-me-to-run-a-kitchen/">
-        <img src="https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=1600&auto=format&fit=crop" width="100%" height="240" style="object-fit: cover;" alt="LLM Workflow System"/>
+        <img src="https://assets.guilhermealbert.com/blog/pan.png" width="100%" height="240" style="object-fit: cover;" alt="LLM Workflow System"/>
       </a>
       <br><br>
       <h3>Working with LLMs taught me how to run a kitchen</h3>
@@ -170,7 +170,7 @@
     </td>
     <td width="50%">
       <a href="https://guilhermealbert.com/blog/react-native-new-architecture">
-        <img src="https://cdn.prod.website-files.com/5db1c0d5ca3871e8fd1a7b66/67d1869e2b108ad50ff97e1b_lautaro-andreani-xkBaqlcqeb4-unsplash.jpg" width="100%" height="240" style="object-fit: cover;" alt="React Native"/>
+        <img src="https://assets.guilhermealbert.com/blog/complex-phone.png" width="100%" height="240" style="object-fit: cover;" alt="React Native"/>
       </a>
       <br><br>
       <h3>React Native: The New Architecture</h3>
@@ -180,7 +180,7 @@
   <tr>
     <td width="50%">
       <a href="https://guilhermealbert.com/blog/ai-agents-future-software">
-        <img src="https://images.unsplash.com/photo-1677442135703-1787eea5ce01?q=80&w=1600&auto=format&fit=crop" width="100%" height="240" style="object-fit: cover;" alt="AI Agents"/>
+        <img src="https://assets.guilhermealbert.com/blog/ai-agents-workflow.png" width="100%" height="240" style="object-fit: cover;" alt="AI Agents"/>
       </a>
       <br><br>
       <h3>AI Agents and the Future of Software</h3>
@@ -188,7 +188,7 @@
     </td>
     <td width="50%">
       <a href="https://guilhermealbert.com/blog/laravel-dev-ecosystem">
-        <img src="https://images.ctfassets.net/23aumh6u8s0i/7gu8qd0qzmuxWWjYLhZpqo/2bb8a206fe4a86af9414545b5c25c368/laravel" width="100%" height="240" style="object-fit: cover;" alt="Laravel"/>
+        <img src="https://assets.guilhermealbert.com/blog/laravel.png" width="100%" height="240" style="object-fit: cover;" alt="Laravel"/>
       </a>
       <br><br>
       <h3>Laravel and the PHP Renaissance</h3>
