@@ -160,50 +160,46 @@
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <a href="https://guilhermealbert.com/blog/working-with-llms-taught-me-to-run-a-kitchen/">
-        <img src="https://assets.guilhermealbert.com/blog/pan.png" width="100%" height="240" style="object-fit: cover;" alt="LLM Workflow System"/>
+        <img src="https://assets.guilhermealbert.com/blog/pan.png" width="100%" alt="LLM workflow system" />
       </a>
-      <br><br>
-      <h3>Working with LLMs taught me how to run a kitchen</h3>
-      <p>Designing a production-grade workflow engine for LLMs, vector stores and prompt pipelines. Architecture, trade-offs, and what I'd do differently.</p>
+      <h3>
+        <a href="https://guilhermealbert.com/blog/working-with-llms-taught-me-to-run-a-kitchen/">Working with LLMs taught me how to run a kitchen</a>
+      </h3>
+      <p>Designing a production-grade workflow engine for LLMs, vector stores, and prompt pipelines. Architecture, trade-offs, and what I'd do differently.</p>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <a href="https://guilhermealbert.com/blog/react-native-new-architecture">
-        <img src="https://assets.guilhermealbert.com/blog/complex-phone.png" width="100%" height="240" style="object-fit: cover;" alt="React Native"/>
+        <img src="https://assets.guilhermealbert.com/blog/complex-phone.png" width="100%" alt="React Native New Architecture" />
       </a>
-      <br><br>
-      <h3>React Native: The New Architecture</h3>
+      <h3>
+        <a href="https://guilhermealbert.com/blog/react-native-new-architecture">React Native: The New Architecture</a>
+      </h3>
       <p>A deep dive into TurboModules, Fabric, and JSI. How the most significant update to React Native since its inception is changing mobile.</p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <a href="https://guilhermealbert.com/blog/ai-agents-future-software">
-        <img src="https://assets.guilhermealbert.com/blog/ai-agents-workflow.png" width="100%" height="240" style="object-fit: cover;" alt="AI Agents"/>
+        <img src="https://assets.guilhermealbert.com/blog/ai-agents-workflow.png" width="100%" alt="AI agents workflow" />
       </a>
-      <br><br>
-      <h3>AI Agents and the Future of Software</h3>
-      <p>From imperative to declarative systems. How AI agents are fundamentally changing software architecture, from the ReAct pattern to multi-agent systems.</p>
+      <h3>
+        <a href="https://guilhermealbert.com/blog/ai-agents-future-software">AI Agents and the Future of Software</a>
+      </h3>
+      <p>From imperative to declarative systems. How AI agents are changing software architecture, from the ReAct pattern to multi-agent systems.</p>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <a href="https://guilhermealbert.com/blog/laravel-dev-ecosystem">
-        <img src="https://assets.guilhermealbert.com/blog/laravel.png" width="100%" height="240" style="object-fit: cover;" alt="Laravel"/>
+        <img src="https://assets.guilhermealbert.com/blog/laravel.png" width="100%" alt="Laravel ecosystem" />
       </a>
-      <br><br>
-      <h3>Laravel and the PHP Renaissance</h3>
-      <p>Why ecosystem beats framework. An analysis of how Laravel built the most cohesive developer ecosystem in modern web development.</p>
+      <h3>
+        <a href="https://guilhermealbert.com/blog/laravel-dev-ecosystem">Laravel and the PHP Renaissance</a>
+      </h3>
+      <p>Why ecosystem beats framework. An analysis of how Laravel built one of the most cohesive developer ecosystems in modern web development.</p>
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <a href="https://guilhermealbert.com">
-    Read more at <b>guilhermealbert.com</b>
-  </a>
-</p>
-
-<br>
 
 ## 🎯 Beyond Code
 
