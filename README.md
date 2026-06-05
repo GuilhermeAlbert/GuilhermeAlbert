@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://guilhermealbert.com">
-    <img src="assets/cover.png" alt="Guilherme Albert"/>
+    <img src="assets/cover.png" alt="Guilherme Albert" style="border-radius: 8px;"/>
   </a>
 </p>
 
@@ -38,72 +38,23 @@
 
 <br>
 
-## ⚡ Currently
+## Currently
 
 - Writing about AI engineering, mobile performance and system design at [guilhermealbert.com](https://guilhermealbert.com)
+
 - Building internal tools with LLM workflows, vector stores and RAG pipelines
+
 - Open to remote opportunities with companies that value ownership, impact and engineering quality
 
-<br>
+## What I do
 
-## 💼 What I do
+- **Product Engineering**: End-to-end delivery across backend, frontend and mobile. Performance, observability, scale.
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <div align="center">
-        <img src="https://img.icons8.com/fluency/96/000000/code.png" width="48" alt="Product Engineering"/>
-        <h3>Product Engineering</h3>
-      </div>
-      <p align="center">
-        End-to-end delivery across backend, frontend and mobile. Performance, observability, scale.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-        <br>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <div align="center">
-        <img src="https://img.icons8.com/fluency/96/000000/artificial-intelligence.png" width="48" alt="AI Engineering"/>
-        <h3>AI Engineering</h3>
-      </div>
-      <p align="center">
-        LLM workflows, vector stores, RAG pipelines and production AI features that don't break in the real world.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/LLMs-1e293b?style=for-the-badge" alt="LLMs"/>
-        <img src="https://img.shields.io/badge/RAG-1e293b?style=for-the-badge" alt="RAG"/>
-        <br>
-        <img src="https://img.shields.io/badge/Vector_Stores-1e293b?style=for-the-badge" alt="Vector Stores"/>
-        <img src="https://img.shields.io/badge/Prompt_Eng-1e293b?style=for-the-badge" alt="Prompt Engineering"/>
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <div align="center">
-        <img src="https://img.icons8.com/fluency/96/000000/management.png" width="48" alt="Technical Leadership"/>
-        <h3>Technical Leadership</h3>
-      </div>
-      <p align="center">
-        Clarity. Alignment. Velocity. I lead teams by reducing friction and raising the bar through code reviews and process.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Architecture-1e293b?style=for-the-badge" alt="Architecture"/>
-        <img src="https://img.shields.io/badge/Mentoring-1e293b?style=for-the-badge" alt="Mentoring"/>
-        <br>
-        <img src="https://img.shields.io/badge/Code_Review-1e293b?style=for-the-badge" alt="Code Review"/>
-        <img src="https://img.shields.io/badge/Strategy-1e293b?style=for-the-badge" alt="Strategy"/>
-      </p>
-    </td>
-  </tr>
-</table>
+- **AI Engineering**: LLM workflows, vector stores, RAG pipelines and production AI features that don't break in the real world.
 
-<br>
+- **Technical Leadership**: Clarity. Alignment. Velocity. I lead teams by reducing friction and raising the bar through code reviews and process.
 
-## 🛠️ Technical Arsenal
+## Technical Arsenal
 
 <table>
   <tr>
@@ -115,7 +66,7 @@
       <p align="center">
         React · Next.js<br>
         React Native · TypeScript<br>
-        Tailwind
+        Expo · Tailwind
       </p>
     </td>
     <td width="25%" valign="top">
@@ -131,13 +82,13 @@
     </td>
     <td width="25%" valign="top">
       <div align="center">
-        <img src="https://skillicons.dev/icons?i=aws,docker,vercel,githubactions" alt="Infrastructure" />
+        <img src="https://skillicons.dev/icons?i=aws,docker,vercel,cloudflare" alt="Infrastructure" />
         <h3>Infrastructure</h3>
       </div>
       <p align="center">
         AWS · Lambda<br>
         Docker · Vercel<br>
-        CI/CD · GitHub Actions
+        CI/CD · Cloudflare
       </p>
     </td>
     <td width="25%" valign="top">
@@ -148,21 +99,19 @@
       <p align="center">
         PostgreSQL · MySQL<br>
         Redis · MongoDB<br>
-        pgvector
+        pgvector · RealmDB
       </p>
     </td>
   </tr>
 </table>
 
-<br>
-
-## 📝 From the blog
+## From the blog
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <a href="https://guilhermealbert.com/blog/working-with-llms-taught-me-to-run-a-kitchen/">
-        <img src="https://assets.guilhermealbert.com/blog/pan.png" width="100%" alt="LLM workflow system" />
+        <img src="https://assets.guilhermealbert.com/blog/pan.png" width="100%" alt="LLM workflow system" style="border-radius: 8px;" />
       </a>
       <h3>
         <a href="https://guilhermealbert.com/blog/working-with-llms-taught-me-to-run-a-kitchen/">Working with LLMs taught me how to run a kitchen</a>
@@ -171,7 +120,7 @@
     </td>
     <td width="50%" valign="top">
       <a href="https://guilhermealbert.com/blog/react-native-new-architecture">
-        <img src="https://assets.guilhermealbert.com/blog/complex-phone.png" width="100%" alt="React Native New Architecture" />
+        <img src="https://assets.guilhermealbert.com/blog/complex-phone.png" width="100%" alt="React Native New Architecture" style="border-radius: 8px;"/>
       </a>
       <h3>
         <a href="https://guilhermealbert.com/blog/react-native-new-architecture">React Native: The New Architecture</a>
@@ -182,7 +131,7 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://guilhermealbert.com/blog/ai-agents-future-software">
-        <img src="https://assets.guilhermealbert.com/blog/ai-agents-workflow.png" width="100%" alt="AI agents workflow" />
+        <img src="https://assets.guilhermealbert.com/blog/ai-agents-workflow.png" width="100%" alt="AI agents workflow" style="border-radius: 8px;" />
       </a>
       <h3>
         <a href="https://guilhermealbert.com/blog/ai-agents-future-software">AI Agents and the Future of Software</a>
@@ -191,7 +140,7 @@
     </td>
     <td width="50%" valign="top">
       <a href="https://guilhermealbert.com/blog/laravel-dev-ecosystem">
-        <img src="https://assets.guilhermealbert.com/blog/laravel.png" width="100%" alt="Laravel ecosystem" />
+        <img src="https://assets.guilhermealbert.com/blog/laravel.png" width="100%" alt="Laravel ecosystem" style="border-radius: 8px;"/>
       </a>
       <h3>
         <a href="https://guilhermealbert.com/blog/laravel-dev-ecosystem">Laravel and the PHP Renaissance</a>
@@ -201,48 +150,8 @@
   </tr>
 </table>
 
-## 🎯 Beyond Code
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/color/96/000000/musical-notes.png" width="60" alt="Music"/><br>
-      <b>Music</b><br>
-      <sub>Multi-instrumentalist</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/color/96/000000/controller.png" width="60" alt="Gaming"/><br>
-      <b>Gaming</b><br>
-      <sub>Retro enthusiast</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/color/96/000000/books.png" width="60" alt="Reading"/><br>
-      <b>Reading</b><br>
-      <sub>Systems thinking</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/color/96/000000/volleyball.png" width="60" alt="Sports"/><br>
-      <b>Sports</b><br>
-      <sub>Gym · Muay Thai · Volleyball</sub>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<br>
-
-## 💬 Let's talk
-
 <p align="center">
-  Open to remote opportunities with companies building AI-first products or operating with distributed teams.
-  <br><br>
-  <a href="mailto:guilhermealbert14@gmail.com">
-    <img src="https://img.shields.io/badge/Email_me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/guilhermealbert">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://linkedin.com/in/guilhermealbert" align="center">
+    <img src="assets/footer.png" alt="Guilherme Albert" style="border-radius: 8px;" />
   </a>
 </p>
