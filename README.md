@@ -41,17 +41,13 @@
 ## Currently
 
 - Writing about AI engineering, mobile performance and system design at [guilhermealbert.com](https://guilhermealbert.com)
-
 - Building internal tools with LLM workflows, vector stores and RAG pipelines
-
 - Open to remote opportunities with companies that value ownership, impact and engineering quality
 
 ## What I do
 
 - **Product Engineering**: End-to-end delivery across backend, frontend and mobile. Performance, observability, scale.
-
 - **AI Engineering**: LLM workflows, vector stores, RAG pipelines and production AI features that don't break in the real world.
-
 - **Technical Leadership**: Clarity. Alignment. Velocity. I lead teams by reducing friction and raising the bar through code reviews and process.
 
 ## Technical Arsenal
